@@ -7,6 +7,8 @@ This repository contains a collection of algorithms implemented in both JavaScri
 - [Easy Arrays](#easy-arrays)
   - [Two Number Sum](#two-number-sum)
   - [Validate Subsequence](#validate-subsequence)
+- [Hard Sort](#hard-sort)
+  - [Quick Sort](#quick-sort)
 
 ## Easy Arrays
 
@@ -20,7 +22,7 @@ This repository contains a collection of algorithms implemented in both JavaScri
 - **JavaScript Implementation**: [index.js](./easy-arrays/validate-subsequence/index.js)
 - **C++ Implementation**: [main.cpp](./easy/arrays/validate-subsequence/main.cpp)
 
-## Hard Sort Algorithms
+## Hard Sort
 
 ### Quick Sort
 
