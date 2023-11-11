@@ -15,8 +15,8 @@ This repository contains a collection of algorithms implemented in C++.
 
 ### Sorted Squared Array
 
-- **C++ Implementation N Complexity**: [main-n.cpp](./easy/arrays/sorted-squared-array/main.cpp)
-- **C++ Implementation LogN Complexity**: [main-logn.cpp](./easy/arrays/sorted-squared-array/main.cpp)
+- **C++ Implementation N Complexity**: [main-n.cpp](./easy/arrays/sorted-squared-array/main-n.cpp)
+- **C++ Implementation LogN Complexity**: [main-logn.cpp](./easy/arrays/sorted-squared-array/main-logn.cpp)
 
 ### Two Number Sum
 
