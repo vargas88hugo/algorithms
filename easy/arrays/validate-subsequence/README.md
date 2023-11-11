@@ -21,19 +21,13 @@ true
 
 ## Hints
 
-### Hint 1
+1. **Hint 1:** You can solve this question by iterating through the main input array once.
 
-You can solve this question by iterating through the main input array once.
+2. **Hint 2:** Iterate through the main array, and look for the first integer in the potential subsequence. If you find that integer, keep on iterating through the main array, but now look for the second integer in the potential subsequence. Continue this process until you either find every integer in the potential subsequence or you reach the end of the main array.
 
-### Hint 2
-
-Iterate through the main array, and look for the first integer in the potential subsequence. If you find that integer, keep on iterating through the main array, but now look for the second integer in the potential subsequence. Continue this process until you either find every integer in the potential subsequence or you reach the end of the main array.
-
-### Hint 3
-
-To actually implement what Hint #2 describes, you'll have to declare a variable holding your position in the potential subsequence. At first, this position will be the 0th index in the sequence; as you find the sequence's integers in the main array, you'll increment the position variable until you reach the end of the sequence.
+3. **Hint 3:** To actually implement what Hint #2 describes, you'll have to declare a variable holding your position in the potential subsequence. At first, this position will be the 0th index in the sequence; as you find the sequence's integers in the main array, you'll increment the position variable until you reach the end of the sequence.
 
 ## Optimal Space & Time Complexity
 
-- O(n) time
-- O(1) space
+- Time: O(n)
+- Space: O(1)

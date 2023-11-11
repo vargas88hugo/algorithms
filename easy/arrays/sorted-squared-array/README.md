@@ -28,5 +28,3 @@ array = [1, 2, 3, 5, 6, 8, 9]
 
 - Time: O(n)
 - Space: O(n)
-
-Where `n` is the length of the input array.

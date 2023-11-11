@@ -1,10 +1,11 @@
 # Algorithms Repository
 
-This repository contains a collection of algorithms implemented in both JavaScript and C++.
+This repository contains a collection of algorithms implemented in C++.
 
 ## Table of Contents
 
 - [Easy Arrays](#easy-arrays)
+  - [Sorted Squared Array](#sorted-squared-array)
   - [Two Number Sum](#two-number-sum)
   - [Validate Subsequence](#validate-subsequence)
 - [Hard Sort](#hard-sort)
@@ -12,26 +13,23 @@ This repository contains a collection of algorithms implemented in both JavaScri
 
 ## Easy Arrays
 
-### Two Number Sum
-
-- **JavaScript Implementation**: [index.js](./easy/arrays/two-number-sum/index.js)
-- **C++ Implementation**: [main.cpp](./easy/arrays/two-number-sum/main.cpp)
-
-### Validate Subsequence
-
-- **JavaScript Implementation**: [index.js](./easy-arrays/validate-subsequence/index.js)
-- **C++ Implementation**: [main.cpp](./easy/arrays/validate-subsequence/main.cpp)
-
 ### Sorted Squared Array
 
 - **C++ Implementation N Complexity**: [main-n.cpp](./easy/arrays/sorted-squared-array/main.cpp)
 - **C++ Implementation LogN Complexity**: [main-logn.cpp](./easy/arrays/sorted-squared-array/main.cpp)
 
+### Two Number Sum
+
+- **C++ Implementation**: [main.cpp](./easy/arrays/two-number-sum/main.cpp)
+
+### Validate Subsequence
+
+- **C++ Implementation**: [main.cpp](./easy/arrays/validate-subsequence/main.cpp)
+
 ## Hard Sort
 
 ### Quick Sort
 
-- **JavaScript Implementation**: [index.js](./hard/sort/quick-sort/index.js)
 - **C++ Implementation**: [main.cpp](./hard/sort/quick-sort/main.cpp)
 
 ---
