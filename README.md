@@ -22,6 +22,11 @@ This repository contains a collection of algorithms implemented in both JavaScri
 - **JavaScript Implementation**: [index.js](./easy-arrays/validate-subsequence/index.js)
 - **C++ Implementation**: [main.cpp](./easy/arrays/validate-subsequence/main.cpp)
 
+### Sorted Squared Array
+
+- **C++ Implementation N Complexity**: [main-n.cpp](./easy/arrays/sorted-squared-array/main.cpp)
+- **C++ Implementation LogN Complexity**: [main-logn.cpp](./easy/arrays/sorted-squared-array/main.cpp)
+
 ## Hard Sort
 
 ### Quick Sort
