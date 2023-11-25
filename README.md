@@ -26,6 +26,10 @@ This repository contains a collection of algorithms implemented in C++.
 
 - **C++ Implementation**: [main.cpp](./easy/arrays/validate-subsequence/main.cpp)
 
+### Tournament Winner
+
+- **C++ Implementation**: [main.cpp](./easy/arrays/tournament-winner/main.cpp)
+
 ## Hard Sort
 
 ### Quick Sort
