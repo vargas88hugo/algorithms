@@ -6,6 +6,7 @@ This repository contains a collection of algorithms implemented in C++.
 
 - [Easy Arrays](#easy-arrays)
   - [Sorted Squared Array](#sorted-squared-array)
+  - [Tournament Winner](#tournament-winner)
   - [Two Number Sum](#two-number-sum)
   - [Validate Subsequence](#validate-subsequence)
 - [Hard Sort](#hard-sort)
