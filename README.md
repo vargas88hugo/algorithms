@@ -5,6 +5,7 @@ This repository contains a collection of algorithms implemented in C++.
 ## Table of Contents
 
 - [Easy Arrays](#easy-arrays)
+  - [Non Constructible Change](#non-constructible-change)
   - [Sorted Squared Array](#sorted-squared-array)
   - [Tournament Winner](#tournament-winner)
   - [Two Number Sum](#two-number-sum)
@@ -13,6 +14,10 @@ This repository contains a collection of algorithms implemented in C++.
   - [Quick Sort](#quick-sort)
 
 ## Easy Arrays
+
+### Non Constructible Change
+
+- **C++ Implementation**: [main.cpp](./easy/arrays/non-constructible-change/main.cpp)
 
 ### Sorted Squared Array
 
